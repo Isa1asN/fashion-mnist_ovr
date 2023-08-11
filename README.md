@@ -16,4 +16,4 @@ Each training and test example is assigned to one of the following labels:
 * 8 Bag
 * 9 Ankle boot
 <img src="https://github.com/Isa1asN/fashion-mnist_ovr/blob/main/fashion-mnist-sprite.jpeg?raw=true" />
-The dataset csv form can be found at kaggle https://www.kaggle.com/datasets/zalando-research/fashionmnist?select=fashion-mnist_test.csv
+## The dataset csv form can be found at kaggle https://www.kaggle.com/datasets/zalando-research/fashionmnist?select=fashion-mnist_test.csv
