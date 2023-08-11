@@ -5,10 +5,10 @@ Fashion-MNIST is a dataset of images—consisting of a training set of 60,000 ex
 ### Labels
 Each training and test example is assigned to one of the following labels:
 
-0 T-shirt/top
-1 Trouser
-2 Pullover
-3 Dress
+* 0 T-shirt/top
+* 1 Trouser
+* 2 Pullover
+* 3 Dress
 4 Coat
 5 Sandal
 6 Shirt
